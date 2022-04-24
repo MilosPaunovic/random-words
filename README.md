@@ -45,7 +45,7 @@ RANDOM.words(howMany = 10)
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please try to follow [semantic commit messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) principle to simplify navigation through git history.
 
 ## License
 
