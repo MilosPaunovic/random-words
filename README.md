@@ -28,10 +28,10 @@ const RANDOM = initialize({ countryCode: 'rs', variation: 'cyrillic' })
 
 Currently available country codes and variations:
 
-| Country        | Country code  | Variation   |
-| -------------  | ------------- |-------------
-| Serbia         | `rs`          | `cyrillic`  |
-| United States  | `us`          |             |
+| Country       | Country code | Variation  |
+| ------------- | :----------: | :--------: |
+| Serbia        | `rs`         | `cyrillic` |
+| United States | `us`         |            |
 
 ## Methods
 
