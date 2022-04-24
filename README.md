@@ -4,6 +4,10 @@ Package for generating random word(s) in multiple languages.
 
 [![Testing](https://github.com/MilosPaunovic/random-words/actions/workflows/testing.yml/badge.svg)](https://github.com/MilosPaunovic/random-words/actions/workflows/testing.yml)
 
+## Try it Online
+
+[Link to Codepen playground](https://codepen.io/milospaunovic/pen/vYpwZYo?editors=1010)
+
 ## Installation
 
 ```bash
