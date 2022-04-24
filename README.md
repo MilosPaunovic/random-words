@@ -13,7 +13,7 @@ npm i @paunovic/random-words
 ```js
 import { initialize } from '@paunovic/random-words'
 
- // Default language pack
+// Default language pack
 const RANDOM = initialize({ countryCode: 'rs' })
 
 // With variation

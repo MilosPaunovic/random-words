@@ -1,6 +1,6 @@
 {
 	"name": "@paunovic/random-words",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "module",
 	"description": "Serving random words in any language has never been this easy.",
 	"author": {
@@ -25,6 +25,7 @@
 		"mocha": "^9.2.2"
 	},
 	"keywords": [
-		"random-words"
+		"random-words",
+		"serbian-words"
 	]
 }
