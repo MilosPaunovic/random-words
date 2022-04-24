@@ -27,7 +27,7 @@ Currently available country codes and variations:
 | Country        | Country code  | Variation   |
 | -------------  | ------------- |-------------
 | Serbia         | `rs`          | `cyrillic`  |
-| United States  | `en`          |             |
+| United States  | `us`          |             |
 
 ## Methods
 
