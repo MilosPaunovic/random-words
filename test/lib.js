@@ -5,7 +5,7 @@ const RANDOM = initialize({ countryCode: 'rs' })
 
 describe('Testing basic functionalities of the entire library', () => {
 
-  it('word() - Should return a random word', () => {
+  it('word()  - Should return a random word', () => {
     const result = RANDOM.word();
     assert.isString(result) && assert.isNotEmpty(result);
   });
