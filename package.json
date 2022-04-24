@@ -13,6 +13,9 @@
 		"url": "git://github.com/MilosPaunovic/random-words.git"
 	},
 	"main": "./lib/index.js",
+	"engines": {
+		"node": ">=12"
+	},
 	"scripts": {
 		"lint": "eslint ./ --fix",
 		"test": "mocha test/*.js"
