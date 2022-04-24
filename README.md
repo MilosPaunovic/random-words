@@ -2,6 +2,8 @@
 
 Package for generating random word(s) in multiple languages.
 
+[![Testing](https://github.com/MilosPaunovic/random-words/actions/workflows/testing.yml/badge.svg)](https://github.com/MilosPaunovic/random-words/actions/workflows/testing.yml)
+
 ## Installation
 
 ```bash
@@ -43,4 +45,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/MilosPaunovic/random-words/develop/LICENSE/)
+[MIT](https://raw.githubusercontent.com/MilosPaunovic/random-words/develop/LICENSE) © [Milos Paunovic](https://github.com/MilosPaunovic)
