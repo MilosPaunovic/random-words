@@ -11,10 +11,12 @@ module.exports = {
 		sourceType: 'module',
 	},
 	rules: {
-		'indent': 'tab',
+		indent: ['error', 'tab'],
+		'no-tabs': 'off',
 		'import/prefer-default-export': 'off',
 		'import/extensions': 'off',
 		'linebreak-style': 'off',
 		'no-unused-vars': 'off',
+		'no-param-reassign': 'off',
 	},
 };
