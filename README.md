@@ -32,6 +32,7 @@ Currently available country codes and variations:
 | :------------ | :----------: | :--------: |
 | Serbia        | `rs`         | `cyrillic` |
 | United States | `us`         |            |
+| Spain         | `es`         |            |
 
 ## Methods
 

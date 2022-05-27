@@ -1,6 +1,6 @@
 {
 	"name": "@paunovic/random-words",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"type": "module",
 	"description": "Serving random words in any language has never been this easy.",
 	"author": {
@@ -30,6 +30,7 @@
 	"keywords": [
 		"random-words",
 		"english-words",
+		"spanish-words",
 		"serbian-words"
 	]
 }
