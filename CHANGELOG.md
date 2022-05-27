@@ -1,3 +1,7 @@
+## [1.2.0](https://github.com/MilosPaunovic/random-words/compare/1.1.0...1.2.0)
+
+* Added Spanish to list of supported languages, closes [#14](https://github.com/MilosPaunovic/random-words/issues/3).
+
 ## [1.1.0](https://github.com/MilosPaunovic/random-words/compare/1.0.1...1.1.0)
 
 * Added English to list of supported languages, closes [#3](https://github.com/MilosPaunovic/random-words/issues/3).
