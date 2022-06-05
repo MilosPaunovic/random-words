@@ -1,6 +1,10 @@
+## [1.2.1](https://github.com/MilosPaunovic/random-words/compare/1.2.0...1.2.1)
+
+* Setting default language, closes [#9](https://github.com/MilosPaunovic/random-words/issues/9).
+
 ## [1.2.0](https://github.com/MilosPaunovic/random-words/compare/1.1.0...1.2.0)
 
-* Added Spanish to list of supported languages, closes [#14](https://github.com/MilosPaunovic/random-words/issues/3).
+* Added Spanish to list of supported languages, closes [#14](https://github.com/MilosPaunovic/random-words/issues/14).
 
 ## [1.1.0](https://github.com/MilosPaunovic/random-words/compare/1.0.1...1.1.0)
 
