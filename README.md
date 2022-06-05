@@ -19,10 +19,13 @@ npm i @paunovic/random-words
 ```js
 import { initialize } from '@paunovic/random-words'
 
-// Default language pack
+// Initialization with default language pack
+const RANDOM = initialize();
+
+// Initialization with different language pack
 const RANDOM = initialize({ countryCode: 'rs' })
 
-// With variation
+// Initialization with different language pack, including variation
 const RANDOM = initialize({ countryCode: 'rs', variation: 'cyrillic' })
 ```
 
@@ -31,8 +34,10 @@ Currently available country codes and variations:
 | Country       | Country code | Variation  |
 | :------------ | :----------: | :--------: |
 | Serbia        | `rs`         | `cyrillic` |
-| United States | `us`         |            |
+| United States `*` | `us`         |            |
 | Spain         | `es`         |            |
+
+`*` Default language; if no `countryCode` parameter is passed to `initialize` method, english will be loaded as a default language.
 
 ## Methods
 
